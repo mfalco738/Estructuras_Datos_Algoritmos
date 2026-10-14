@@ -1,0 +1,21 @@
+
+> Implementá en Java dos soluciones distintas para detectar elementos duplicados dentro de un vector de enteros.
+
+> Usá el siguiente vector de prueba: [3, 5, 2, 8, 3, 7, 5, 9, 2, 1]. La salida debe indicar cuáles valores se repiten y cuántas veces aparecen, por ejemplo: 2, 3 y 5.
+
+> Solución 1: desarrollá un algoritmo con dos ciclos anidados. La idea es recorrer cada elemento y compararlo con todos los demás elementos del vector para verificar si ya apareció antes. Explicá que esta estrategia tiene complejidad temporal O(n²) porque compara cada elemento con el resto del arreglo.
+
+> Solución 2: desarrollá otra solución usando una estructura HashSet. Recorre el vector, agregá cada elemento al conjunto y si ya existe, entonces ese valor es un duplicado. Explicá que esta estrategia funciona en tiempo promedio O(n), ya que la inserción y la búsqueda en un HashSet son constantes en promedio.
+
+> El programa debe:
+> - Mostrar el vector original.
+> - Detectar y mostrar los elementos duplicados.
+> - Manejar correctamente casos sin duplicados.
+> - Incluir comentarios breves para explicar cada parte del algoritmo.
+> - No usar métodos ya implementados de la biblioteca para detectar duplicados.
+
+> Además, pedí que compares ambas implementaciones desde el punto de vista de la complejidad temporal y espacial:
+> - Solución con dos ciclos anidados: O(n²) de tiempo y O(1) de espacio adicional.
+> - Solución con HashSet: O(n) de tiempo promedio y O(n) de espacio adicional en el peor caso.
+
+> Al final, agregá una breve conclusión explicando cuándo conviene usar cada enfoque y un ejemplo de salida por consola mostrando el resultado de la ejecución.

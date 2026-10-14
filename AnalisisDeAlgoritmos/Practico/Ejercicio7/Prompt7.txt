@@ -1,0 +1,37 @@
+
+> Implementá en Java dos versiones distintas para invertir un vector (arreglo).
+>
+> Trabajá con los siguientes ejemplos de prueba:
+> - Vector A: {1, 2, 3, 4, 5}
+> - Vector B: {10, -3, 0, 7, 2, 9}
+> - Vector C: {}
+
+> La primera versión debe invertir el vector usando un vector auxiliar. La segunda versión debe invertir el mismo vector sin utilizar memoria adicional significativa, es decir, haciendo la inversión in-place mediante intercambios de posiciones.
+>
+> El programa debe:
+> - Mostrar el vector original.
+> - Aplicar la inversión con la primera solución.
+> - Aplicar la inversión con la segunda solución.
+> - Mostrar el vector resultante en cada caso.
+> - Resolver correctamente los casos borde, como:
+>   - vector vacío,
+>   - números negativos.
+> - Incluir comentarios breves para explicar cada parte del algoritmo.
+> - Mostrar ejemplos de salida por consola.
+>
+> Además, compará ambas soluciones indicando:
+> - ventajas,
+> - desventajas,
+> - complejidad temporal,
+> - complejidad espacial.
+>
+> La comparación debe incluir lo siguiente:
+> - En la versión con vector auxiliar, la idea es crear un arreglo nuevo y copiar los elementos en orden inverso. Su complejidad temporal es O(n), porque recorre el vector completo; su complejidad espacial adicional es O(n), porque usa memoria extra para guardar los elementos.
+> - En la versión in-place, se intercambian los elementos de los extremos hacia el centro sin crear un arreglo adicional. Su complejidad temporal también es O(n), porque recorre la mitad del vector aproximadamente; su complejidad espacial adicional es O(1), porque solo usa variables auxiliares pequeñas.
+>
+> También explicá:
+> - cuándo conviene usar cada enfoque,
+> - por qué la solución in-place es más eficiente en memoria,
+> - y por qué la solución con vector auxiliar puede ser más simple de entender o implementar.
+>
+> Al final, agregá una breve conclusión explicando cuál de las dos soluciones es más eficiente en términos de memoria y en qué situaciones conviene usar cada una.

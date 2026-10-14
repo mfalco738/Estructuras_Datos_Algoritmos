@@ -1,0 +1,41 @@
+La estrategia más adecuada es realizar un **recorrido lineal** del vector:
+
+1. Tomar el primer elemento como mínimo inicial.
+2. Compararlo con cada elemento restante.
+3. Actualizar el mínimo cuando se encuentre un valor menor.
+4. Devolver el mínimo encontrado.
+
+No es necesario ordenar porque ordenar implica trabajo adicional, mientras que para encontrar el mínimo basta con comparar cada elemento una sola vez.
+
+**Prompt para OpenCode:**
+
+```text
+Implementá en Java un algoritmo que encuentre y devuelva el valor mínimo de
+un vector de números enteros.
+
+Antes de escribir el código, considerá la siguiente estrategia:
+
+- Recorrer el vector una sola vez.
+- Usar el primer elemento como mínimo inicial.
+- Comparar cada elemento con el mínimo actual.
+- Actualizar el mínimo cuando se encuentre un valor menor.
+
+Esta estrategia es adecuada porque para garantizar que un valor sea el mínimo
+es necesario revisar todos los elementos del vector. No es necesario ordenar
+el vector: ordenar requiere un trabajo adicional de, como mínimo, O(n log n)
+en algoritmos eficientes, mientras que un recorrido lineal permite encontrar
+el mínimo directamente.
+
+Indicá en la explicación que:
+
+- La complejidad temporal es O(n), Ω(n) y Θ(n), porque cada elemento debe
+  analizarse al menos una vez.
+- La complejidad espacial es O(1), porque solo se utiliza una variable
+  adicional para almacenar el mínimo.
+- El vector debe contener al menos un elemento. Si está vacío, el método debe
+  manejar la situación lanzando una excepción adecuada.
+
+Generá una solución clara y sencilla en Java. El código debe estar comentado
+con comentarios explicativos y debe incluir una breve explicación de cada
+parte importante del algoritmo. Usá nombres de variables descriptivos y
+mantené la implementación fácil de leer.

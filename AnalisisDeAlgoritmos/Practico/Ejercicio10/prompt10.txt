@@ -1,0 +1,42 @@
+
+Implementá en Java el algoritmo de ordenamiento Bubble Sort (Burbuja) para ordenar un vector de números enteros de menor a mayor.
+Trabajá con los siguientes ejemplos de prueba:
+Vector A (desordenado): [64, 34, 25, 12, 22, 11, 90]  -> esperado: [11, 12, 22, 25, 34, 64, 90]
+
+Vector B (ya ordenado): [1, 2, 3, 4, 5]  -> esperado: [1, 2, 3, 4, 5]
+
+Vector C (orden inverso): [9, 7, 5, 3, 1]  -> esperado: [1, 3, 5, 7, 9]
+
+Vector D (con duplicados): [4, 2, 4, 1, 2]  -> esperado: [1, 2, 2, 4, 4]
+
+Vector E (vacío): [] -> caso borde: vector sin elementos
+
+El algoritmo debe recorrer el vector comparando pares de elementos adyacentes de izquierda a derecha, intercambiándolos (swap) si el actual es mayor que el siguiente.
+
+El programa debe:
+
+Mostrar el vector original antes de ordenar.
+
+Implementar el ordenamiento usando un doble ciclo for.
+
+Mostrar el vector final ordenado.
+
+Contabilizar y mostrar por consola la cantidad exacta de comparaciones realizadas.
+
+Contabilizar y mostrar por consola la cantidad exacta de intercambios (swaps) realizados.
+
+Manejar de forma segura los vectores vacíos o nulos.
+
+Incluir comentarios breves en el código explicando la lógica del intercambio con la variable temporal.
+
+Además, incluí un análisis breve de complejidad al final de la ejecución:
+
+Complejidad temporal: O(n^2), indicando que se requieren bucles anidados para comparar elementos.
+
+Complejidad espacial: O(1), porque el ordenamiento se realiza 'in-place' sobre el mismo vector sin usar memoria adicional significativa.
+
+También agregá una justificación teórica breve explicando:
+
+Por qué Bubble Sort es adecuado únicamente para fines didácticos o conjuntos muy pequeños de datos, destacando su ineficiencia frente al crecimiento cuadrático.
+
+Finalizá con una conclusión corta relacionando los altos números de comparaciones e intercambios arrojados en las pruebas con la complejidad O(n^2) teórica.

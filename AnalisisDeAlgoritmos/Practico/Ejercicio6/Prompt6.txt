@@ -1,0 +1,27 @@
+> Implementá en Java un algoritmo que determine si dos vectores son iguales.
+
+> Trabajá con los siguientes ejemplos de prueba:
+> - Vector A: {8, 2, 5, 9, 1}
+> - Vector B: {8, 2, 5, 9, 1}
+> - Vector C: {8, 2, 5, 4, 1}
+> - Vector D: {8, 2, 5, 9, 1, 7}
+
+> El algoritmo debe comparar elemento por elemento y devolver `true` si ambos vectores tienen la misma longitud y cada posición contiene el mismo valor. Si encuentra una diferencia, debe finalizar inmediatamente y no seguir comparando los elementos restantes.
+
+> El programa debe:
+> - Mostrar los dos vectores ingresados.
+> - Determinar si son iguales o distintos.
+> - Comparar la primera posición y continuar en orden hasta encontrar una diferencia.
+> - Finalizar apenas detecte una diferencia, porque ya se sabe que los vectores no son iguales.
+> - Manejar correctamente el caso en que los vectores tengan distinta longitud.
+> - Incluir comentarios breves para explicar cada parte del algoritmo.
+> - Mostrar ejemplos de salida por consola.
+
+> Además, analizá la complejidad del algoritmo desde el punto de vista temporal:
+> - Mejor caso: si el primer elemento ya difiere, el algoritmo termina en O(1), porque no necesita recorrer más posiciones.
+> - Peor caso: si todos los elementos coinciden hasta el final, entonces recorre todo el vector y su complejidad es O(n).
+> - Caso promedio: en la mayoría de los casos, se compara hasta encontrar una diferencia o llegar al final, por lo que también se considera O(n).
+
+> La complejidad espacial adicional es O(1), porque solo se usan variables auxiliares y no se almacena información extra en estructuras adicionales.
+
+> Al final, agregá una breve conclusión explicando por qué es importante detectar la diferencia lo antes posible y cómo esta estrategia optimiza la evaluación de vectores.

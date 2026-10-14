@@ -1,0 +1,24 @@
+Implementá en Java un algoritmo que busque un elemento dentro de un vector desordenado de números enteros.
+
+Trabajá con los siguientes ejemplos de prueba:
+Vector A: [15, 8, 23, 4, 42, 16] -> buscando el 23 (encontrado en la posición 2)
+Vector B: [10, 5, 20, 15] -> buscando el 99 (no existe en el vector)
+Vector C: [7, 3, 9, 1] -> buscando el 7 (encontrado al inicio, posición 0)
+
+El algoritmo debe utilizar una estrategia de búsqueda lineal (exhaustiva), recorriendo el vector elemento por elemento de izquierda a derecha.
+Esta estrategia es la adecuada porque, al tratarse de un vector completamente desordenado, no se puede aplicar ninguna técnica de búsqueda rápida (como búsqueda binaria), siendo obligatorio examinar los elementos uno por uno.
+
+El programa debe:
+-Mostrar el vector ingresado
+-Recorrer el vector buscando el elemento objetivo.
+-Informar cuántas posiciones o pasos fueron recorridos hasta encontrar el elemento o determinar que no existe.
+-Indicar si el elemento fue encontrado y en qué índice.
+
+Además, analizá la complejidad teórica:
+Mejor caso: O(1), cuando el elemento buscado está en la primera posición.
+
+Peor caso: O(n), cuando el elemento está al final o no se encuentra en el vector, obligando a recorrerlo completo.
+
+Caso promedio: O(n), asumiendo una probabilidad uniforme de hallar el elemento a mitad de camino.
+
+Al final, agregá una breve conclusión explicando la limitación de la búsqueda lineal frente a estructuras desordenadas a medida que aumenta el tamaño de la entrada.

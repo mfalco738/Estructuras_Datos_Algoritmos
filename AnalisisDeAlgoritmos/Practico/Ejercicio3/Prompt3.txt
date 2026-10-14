@@ -1,0 +1,13 @@
+Prompt para OpenCode
+
+> Implementá en Java un programa que realice una búsqueda binaria en un arreglo ordenado de enteros. El tamaño del arreglo debe ser de 10. Usando estos valores: 3, 7, 11, 18, 22, 23, 29, 32, 37, 42.
+>
+> Como el arreglo está ordenado, en cada paso la búsqueda binaria compara el valor buscado con el elemento del medio y descarta la mitad de los elementos posibles. Por eso es más eficiente que la búsqueda lineal: su complejidad temporal es **O(log n)**, mientras que la búsqueda lineal puede requerir **O(n)** comparaciones.
+>
+> El programa debe:
+>
+> - Permitir buscar un valor y avisar claramente si no se encuentra.
+> - Mostrar paso a paso cómo evolucionan las variables de búsqueda (`inicio`, `fin` y `medio`) y qué valor se compara en cada iteración.
+> - Evitar métodos de búsqueda ya implementados en bibliotecas.
+
+> Indicá la complejidad temporal esperada (**O(log n)**) y espacial (**O(1)**). Incluí comentarios breves y un ejemplo de ejecución que muestre el seguimiento de la búsqueda.

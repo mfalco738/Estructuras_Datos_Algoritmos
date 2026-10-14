@@ -1,0 +1,16 @@
+ Implementá en Java un algoritmo que cuente cuántas veces aparece un valor determinado dentro de un vector. Trabajá con estos dos vectores, cada uno de 10 elementos:
+
+> - Un vector numérico de tipo `double`, que incluya números enteros y decimales: `{2.5, 4.0, 2.5, -1.0, 8.25, 4.0, 0.0, 3.75, 9.0, 2.5}`.
+
+> - Un vector de cadenas de texto: `{"sol", "luna", "sol", "mar", "cielo", "mar", "sol", "tierra", "nube", "luna"}`.
+
+> Creá un método para contar ocurrencias en cada tipo de vector. Para probar el algoritmo, buscá valores que aparezcan; por ejemplo, `2.5`, y `"sol"` en el de texto.
+
+> El programa debe:
+> - Mostrar cada vector y el valor buscado.
+> - Contar cuantas veces aparece determinados valores dentro del vector.
+> - Recorrer completamente el vector, incluso después de encontrar una coincidencia, porque todavía podrían existir más apariciones.
+> - Comparar correctamente los números decimales y usar `.equals()` para comparar cadenas.
+> - Incluir comentarios breves y mostrar ejemplos de salida por consola.
+
+> Además, analizá la complejidad del algoritmo. Explicá que necesita recorrer todo el vector para contar todas las apariciones —y también para confirmar que el valor no está—, por lo que su complejidad temporal es **O(n)**. Indicá que la complejidad espacial adicional es **O(1)**.

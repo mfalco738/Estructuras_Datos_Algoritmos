@@ -1,0 +1,41 @@
+> Implementá en Java un algoritmo que calcule la suma de todos los elementos de una matriz.
+
+> Trabajá con los siguientes ejemplos de prueba:
+> - Matriz A: [[1, 2, 3], [4, 5, 6]]  -> suma esperada: 21
+> - Matriz B: [[10, -3, 0], [5, 2, 7], [1, 8, -1]]  -> suma esperada: 29
+> - Matriz C: [[0, 0], [0, 0]]  -> suma esperada: 0
+> - Matriz D: []  -> caso borde: matriz vacía
+
+> El algoritmo debe recorrer la matriz de forma secuencial, recorriendo fila por fila y, dentro de cada fila, de izquierda a derecha. Cada elemento debe procesarse exactamente una vez y sumarse al acumulador total.
+
+> El programa debe:
+> - Mostrar la matriz ingresada.
+> - Recorrer la matriz con un doble for (filas y columnas).
+> - Sumar cada elemento al total.
+> - Mostrar el resultado final de la suma.
+> - Contabilizar cuántas operaciones realiza el algoritmo durante la ejecución.
+> - Manejar correctamente casos borde, como:
+> - matriz vacía,
+> - filas vacías,
+> - números negativos,
+> - valores cero.
+
+> - Incluir comentarios breves para explicar cada parte del algoritmo.
+> - Mostrar ejemplos de salida por consola.
+
+> La cuenta de operaciones debe reflejar, por ejemplo:
+> - un acceso a cada elemento de la matriz,
+> - una operación de suma por cada elemento procesado,
+> - y el aumento del acumulador.
+> Se puede llevar un contador que incremente en cada paso relevante del recorrido.
+>
+> Además, analizá la complejidad del algoritmo:
+> - Complejidad temporal: O(m x n), porque se visita cada elemento de la matriz exactamente una vez.
+> - Complejidad espacial adicional: O(1), porque solo se usan variables auxiliares para el acumulador, el índice de filas, el índice de columnas y el contador de operaciones.
+
+> También explicá:
+> - por qué el recorrido fila por fila es la forma más natural de recorrer una matriz,
+> - cómo se puede contar la cantidad de operaciones realizadas,
+> - y qué pasa en el caso de una matriz vacía o de una matriz con valores negativos.
+
+> Al final, agregá una breve conclusión explicando por qué este enfoque es eficiente y cómo se puede generalizar para matrices de distintos tamaños.

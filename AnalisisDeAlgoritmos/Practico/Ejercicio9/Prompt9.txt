@@ -1,0 +1,42 @@
+
+Implementá en Java un algoritmo que encuentre el elemento de mayor valor dentro de una matriz.
+
+Trabajá con los siguientes ejemplos de prueba:
+
+Matriz A: [[1, 8, 3], [4, 5, 6]]  -> mayor esperado: 8
+
+Matriz B: [[-10, -3, -20], [-5, -2, -7]]  -> mayor esperado: -2
+
+Matriz C: [[7, 7], [7, 7]]  -> mayor esperado: 7
+
+Matriz D: []  -> caso borde: matriz vacía, debe retornar un error claro o mensaje por consola.
+
+El algoritmo debe recorrer la matriz de forma secuencial mediante un doble ciclo for. Debe inicializar una variable maximo utilizando el primer elemento de la matriz y actualizarla únicamente cuando encuentre un valor estrictamente superior durante el recorrido.
+
+El programa debe:
+
+Mostrar la matriz ingresada.
+
+Recorrer la matriz completa (filas y columnas).
+
+Mostrar el resultado final indicando cuál es el mayor elemento encontrado.
+
+Manejar correctamente casos borde, como:
+
+matriz vacía o nula,
+
+matrices compuestas exclusivamente por números negativos.
+
+Incluir comentarios breves para explicar cada paso del algoritmo.
+
+Además, analizá la complejidad del algoritmo:
+
+Complejidad temporal: O(m x n), porque el algoritmo evalúa todos los elementos de la matriz exactamente una vez.
+
+Complejidad espacial adicional: O(1), porque solo se usan variables auxiliares para almacenar el valor máximo actual y los índices de los bucles.
+
+También explicá en el análisis teórico:
+
+por qué resulta estrictamente necesario recorrer absolutamente todos los elementos de la estructura bidimensional (justificando que, al no haber un orden previo garantizado, cualquier elemento no visitado podría llegar a ser el mayor).
+
+Al final, agregá una breve conclusión sobre la eficiencia espacial de este método de búsqueda.
