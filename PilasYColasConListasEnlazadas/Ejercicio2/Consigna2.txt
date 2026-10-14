@@ -1,0 +1,10 @@
+Ejercicio 2: Cola enlazada de enteros
+Implementar una cola utilizando lista enlazada simple.
+La cola debe permitir:
+●	encolar elementos;
+●	desencolar elementos;
+●	consultar el frente;
+●	verificar si está vacía;
+●	buscar si contiene un valor;
+●	imprimir su contenido.
+El prompt debe explicar por qué la cola necesita head y tail, y qué problema aparecería si solamente se usara head.

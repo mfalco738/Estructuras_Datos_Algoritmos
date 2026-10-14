@@ -1,0 +1,7 @@
+Ejercicio 3: Pila genérica
+Modificar la implementación de pila para que pueda almacenar cualquier tipo de dato.
+Debe funcionar con:
+●	Integer
+●	String
+●	objetos propios
+El prompt debe explicar qué significa usar genéricos en Java y por qué la lógica de la pila no depende del tipo de dato almacenado.

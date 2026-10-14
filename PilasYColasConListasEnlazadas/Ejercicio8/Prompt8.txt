@@ -1,0 +1,4 @@
+Implementar un programa que invierta una palabra usando una pila enlazada de caracteres.
+Explicar por qué la política LIFO permite invertir el orden de los caracteres ingresados.
+Ajustes realizados luego de la primera respuesta de OpenCode:
+Se concatenaron los caracteres extraídos de la pila para formar el String resultante invertido.

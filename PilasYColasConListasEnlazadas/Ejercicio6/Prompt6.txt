@@ -1,0 +1,5 @@
+Implementar una cola de atención para un banco con nombre, número de turno y motivo.
+Permitir agregar cliente, atender próximo, consultar quién sigue e imprimir fila.
+Explicar por qué la estructura adecuada es una cola y cómo representa el orden de llegada.
+Ajustes realizados luego de la primera respuesta de OpenCode:
+Se personalizó el método toString() de la clase ClienteBanco para una salida limpia por consola.

@@ -1,0 +1,5 @@
+Modificar la implementación de cola para que sea genérica (ColaEnlazadaGenerica<T>).
+Probar con nombres de personas (String) y con un objeto Cliente.
+Explicar cómo se mantiene el comportamiento FIFO independientemente del tipo de dato.
+Ajustes realizados luego de la primera respuesta de OpenCode:
+Se estructuraron correctamente los punteros head y tail genéricos.

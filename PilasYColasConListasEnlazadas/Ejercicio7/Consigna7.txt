@@ -1,0 +1,8 @@
+Ejercicio 7: Verificador de paréntesis balanceados
+Implementar un programa que reciba una expresión y determine si los paréntesis están balanceados.
+Ejemplos válidos:
+(2 + 3) * (5 - 1)
+((a + b) * c)
+Ejemplos inválidos:
+(2 + 3)
+El prompt debe explicar cómo se usa una pila para guardar aperturas y validar cierres.

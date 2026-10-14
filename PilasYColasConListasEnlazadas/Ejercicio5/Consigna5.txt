@@ -1,0 +1,8 @@
+Ejercicio 5: Historial de navegación con pila
+Implementar un sistema simple de historial de navegación usando una pila enlazada.
+El programa debe permitir:
+●	visitar una página;
+●	volver a la página anterior;
+●	consultar la página actual;
+●	imprimir el historial.
+El prompt debe explicar por qué una pila representa correctamente el comportamiento de “volver atrás”.

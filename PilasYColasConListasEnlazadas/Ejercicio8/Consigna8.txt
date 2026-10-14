@@ -1,0 +1,5 @@
+Ejercicio 8: Invertir una palabra con pila
+Implementar un programa que invierta una palabra usando una pila enlazada.
+Ejemplo:
+"algoritmo" → "omtirogla"
+El prompt debe explicar por qué la política LIFO permite invertir el orden de los caracteres.

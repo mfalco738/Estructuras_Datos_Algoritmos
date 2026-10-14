@@ -1,0 +1,12 @@
+Ejercicio 9: Cola de impresión
+Implementar una cola de impresión.
+Cada trabajo de impresión debe tener:
+●	nombre del archivo;
+●	cantidad de páginas;
+●	usuario que lo envió.
+El sistema debe permitir:
+●	agregar trabajos;
+●	imprimir el próximo trabajo;
+●	consultar el próximo archivo;
+●	mostrar todos los trabajos pendientes.
+El prompt debe explicar por qué una impresora debe procesar los trabajos usando FIFO.

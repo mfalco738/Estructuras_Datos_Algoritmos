@@ -1,0 +1,10 @@
+Ejercicio 1: Pila enlazada de enteros
+Implementar una pila utilizando lista enlazada simple.
+La pila debe permitir:
+●	apilar elementos;
+●	desapilar elementos;
+●	consultar el tope;
+●	verificar si está vacía;
+●	buscar si contiene un valor;
+●	imprimir su contenido.
+El prompt debe explicar por qué el head representa el tope de la pila y por qué push y pop deben resolverse en O(1).

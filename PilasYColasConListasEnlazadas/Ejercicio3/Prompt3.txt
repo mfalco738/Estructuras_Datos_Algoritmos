@@ -1,0 +1,5 @@
+Modificar la implementación de pila para que sea genérica (PilaEnlazadaGenerica<T>).
+Debe funcionar con Integer, String y objetos propios.
+Explicar qué significa usar genéricos y por qué la lógica de la pila no depende del tipo de dato.
+Ajustes realizados luego de la primera respuesta de OpenCode:
+Se aplicó <T> correctamente en la clase Nodo y en los métodos de la pila.

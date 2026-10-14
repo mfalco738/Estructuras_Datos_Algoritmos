@@ -1,0 +1,4 @@
+Implementar una cola de impresión con nombre de archivo, páginas y usuario utilizando lista enlazada.
+Explicar por qué una impresora debe procesar los trabajos usando FIFO.
+Ajustes realizados luego de la primera respuesta de OpenCode:
+Se ajustaron los punteros head y tail para la gestión correcta de los nodos de trabajos.

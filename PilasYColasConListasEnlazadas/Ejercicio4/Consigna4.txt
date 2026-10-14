@@ -1,0 +1,4 @@
+Ejercicio 4: Cola genérica
+Modificar la implementación de cola para que pueda almacenar cualquier tipo de dato.
+Debe probarse con una cola de nombres de personas y con una cola de objetos Cliente.
+El prompt debe explicar cómo se mantiene el comportamiento FIFO independientemente del tipo de dato.

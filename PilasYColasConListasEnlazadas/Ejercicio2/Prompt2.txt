@@ -1,0 +1,5 @@
+Implementar una cola utilizando lista enlazada simple de enteros con head y tail.
+Debe permitir encolar, desencolar, consultar el frente, verificar si está vacía, buscar e imprimir.
+Explicar por qué la cola necesita head y tail, y qué problema aparecería si solo se usara head.
+Ajustes realizados luego de la primera respuesta de OpenCode:
+Se ajustó la actualización de tail al desencolar el último elemento (dejándolo en null).

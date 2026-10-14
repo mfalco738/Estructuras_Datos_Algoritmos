@@ -1,0 +1,4 @@
+Implementar un verificador de paréntesis balanceados usando una pila enlazada de caracteres.
+Explicar cómo se usa la pila para guardar aperturas '(' y hacer pop al encontrar cierres ')'.
+Ajustes realizados luego de la primera respuesta de OpenCode:
+Se manejó el retorno inmediato falso si se encuentra un cierre sin apertura previa.

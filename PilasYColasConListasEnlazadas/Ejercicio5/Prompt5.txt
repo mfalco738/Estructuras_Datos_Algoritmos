@@ -1,0 +1,5 @@
+Implementar un sistema de historial de navegación usando una pila enlazada.
+Permitir visitar página, volver a la anterior, consultar actual e imprimir.
+Explicar por qué la pila representa correctamente el comportamiento de volver atrás (LIFO).
+Ajustes realizados luego de la primera respuesta de OpenCode:
+Se contempló el mensaje de aviso cuando el historial se queda sin páginas previas.

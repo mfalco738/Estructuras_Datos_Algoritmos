@@ -1,0 +1,9 @@
+Ejercicio 10: Lista doblemente enlazada simple
+Implementar una lista doblemente enlazada genérica.
+Debe permitir:
+●	insertar al inicio;
+●	insertar al final;
+●	eliminar un elemento;
+●	imprimir hacia adelante;
+●	imprimir hacia atrás.
+El prompt debe explicar qué referencias tiene cada nodo, por qué se necesita anterior y siguiente, y qué casos especiales hay que contemplar al eliminar nodos.

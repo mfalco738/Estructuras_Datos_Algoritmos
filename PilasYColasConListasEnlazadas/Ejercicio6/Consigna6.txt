@@ -1,0 +1,12 @@
+Ejercicio 6: Cola de atención de clientes
+Implementar una cola de atención para un banco.
+Cada cliente debe tener:
+●	nombre;
+●	número de turno;
+●	motivo de consulta.
+El sistema debe permitir:
+●	agregar cliente a la fila;
+●	atender al próximo cliente;
+●	consultar quién sigue;
+●	imprimir la fila actual.
+El prompt debe explicar por qué la estructura adecuada es una cola y cómo se representa el orden de llegada.

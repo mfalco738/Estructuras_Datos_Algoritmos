@@ -1,0 +1,5 @@
+Implementar una pila utilizando lista enlazada simple de enteros.
+Debe permitir apilar, desapilar, consultar el tope, verificar si está vacía, buscar un valor e imprimir.
+El prompt debe explicar por qué el head representa el tope de la pila y por qué push y pop deben resolverse en O(1).
+Ajustes realizados luego de la primera respuesta de OpenCode:
+Se validó correctamente el caso de desapilar (pop) con pila vacía lanzando una excepción o mensaje controlado.
