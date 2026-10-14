@@ -1,0 +1,4 @@
+Ejercicio 9: Problema de desperdicio de espacio en cola simple
+Implementar una cola simple con arreglo y demostrar el problema del desperdicio de posiciones.
+El programa debe mostrar el arreglo luego de varias operaciones enqueue y dequeue.
+El prompt debe pedir explícitamente que se vea cómo quedan espacios libres al inicio, pero no pueden reutilizarse en una cola simple.

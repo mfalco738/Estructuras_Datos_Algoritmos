@@ -1,0 +1,5 @@
+Ejercicio 5: Implementar una pila genérica
+Implementar una clase Pila<T> usando arreglos.
+Debe permitir almacenar distintos tipos de datos:
+Integer, String u objetos simples.
+El prompt debe explicar qué problema resuelve el uso de genéricos y cómo se diferencia de una pila hecha solamente con int.

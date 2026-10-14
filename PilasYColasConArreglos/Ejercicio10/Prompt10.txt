@@ -1,0 +1,2 @@
+Implementar una estructura de Cola Circular utilizando un arreglo para solucionar el problema del desperdicio de espacio.
+El prompt debe explicar detalladamente cómo se utiliza el operador módulo (% capacidad) para mover cíclicamente los punteros front y rear, y cómo se detecta de forma precisa el estado de cola llena o cola vacía.

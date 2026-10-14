@@ -1,0 +1,5 @@
+Ejercicio 4: Historial de navegación
+Implementar un simulador simple de historial de navegación.
+Cada vez que el usuario visita una página, se apila la URL.
+El programa debe permitir volver a la página anterior usando pop.
+El prompt debe explicar por qué el historial funciona bajo el principio LIFO.

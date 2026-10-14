@@ -1,0 +1,2 @@
+Implementar una cola simple utilizando un arreglo lineal para demostrar el problema clásico del desperdicio de posiciones.
+El prompt debe pedir explícitamente que el programa muestre de manera gráfica el estado del arreglo después de realizar varias operaciones consecutivas de enqueue y dequeue, evidenciando cómo quedan espacios libres al inicio que no pueden volver a utilizarse en una cola simple lineal.

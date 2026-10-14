@@ -1,0 +1,3 @@
+Implementar una clase ColaEnteros usando un arreglo lineal de tamaño fijo.
+Debe permitir las operaciones: enqueue, dequeue, front, isEmpty, isFull y size.
+El prompt debe explicar detalladamente para qué sirven los índices front y rear, y cómo cambian progresivamente cuando se agregan (incrementando rear) o eliminan elementos (incrementando front).

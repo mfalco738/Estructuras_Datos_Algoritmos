@@ -1,0 +1,9 @@
+Ejercicio 3: Validar paréntesis balanceados
+Implementar un programa que reciba una expresión matemática y determine si los paréntesis están correctamente balanceados.
+Ejemplo:
+(5 + 3) * (2 + 1)
+Debe devolver válido.
+Ejemplo:
+(5 + 3) * (2 + 1)
+Debe devolver inválido.
+El prompt debe explicar cómo se usa una pila para guardar paréntesis abiertos y cuándo se realiza un pop.

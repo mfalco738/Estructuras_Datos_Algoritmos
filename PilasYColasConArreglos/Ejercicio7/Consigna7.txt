@@ -1,0 +1,6 @@
+Ejercicio 7: Sistema de turnos para atención
+Implementar un sistema de turnos para una oficina.
+Cada persona que llega recibe un turno y se agrega a una cola.
+El sistema debe permitir:
+agregar persona, atender siguiente persona y consultar quién está primero.
+El prompt debe explicar por qué este problema utiliza FIFO y no LIFO.

@@ -1,0 +1,3 @@
+Implementar un sistema de turnos para una oficina utilizando una cola simple de Strings para los nombres de las personas.
+Cada persona que llega recibe un turno y se agrega al final de la cola (enqueue). El sistema atiende a la siguiente persona respetando estrictamente el orden de llegada (dequeue).
+El prompt debe justificar teóricamente por qué este problema utiliza el principio FIFO (First In, First Out) y no LIFO, ya que el primero en llegar es el primero en ser atendido.

@@ -1,0 +1,5 @@
+Ejercicio 6: Implementar una cola simple de enteros
+Implementar una clase ColaEnteros usando un arreglo.
+Debe permitir:
+enqueue, dequeue, front, isEmpty, isFull y size.
+El prompt debe explicar para qué sirven los índices front y rear, y cómo cambian cuando se agregan o eliminan elementos.

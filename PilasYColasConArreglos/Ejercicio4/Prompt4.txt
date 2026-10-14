@@ -1,0 +1,3 @@
+Implementar un simulador simple de historial de navegación web usando una pila de Strings.
+Cada vez que el usuario visita una nueva URL, esta se apila (push). El programa debe permitir retroceder a la página anterior extrayendo la URL superior mediante pop.
+El prompt debe explicar por qué el historial funciona bajo el principio LIFO (Last In, First Out), ya que la última página visitada es la primera a la que se regresa al presionar el botón "Atrás".

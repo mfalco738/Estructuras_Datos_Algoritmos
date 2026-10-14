@@ -1,0 +1,3 @@
+Implementar un programa en Java que reciba una expresión matemática en forma de String y determine si sus paréntesis están correctamente balanceados usando una pila de caracteres (char).
+El prompt debe explicar detalladamente cómo se recorre el String: al encontrar un paréntesis abierto (, se hace push en la pila; al encontrar un paréntesis cerrado ), se realiza un pop para verificar correspondencia. Si la pila queda vacía al final, es válido.
+Incluir casos de prueba válidos e inválidos.

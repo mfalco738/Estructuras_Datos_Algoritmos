@@ -1,0 +1,3 @@
+Implementar un sistema de cola de impresión en Java donde cada documento posee un nombre y una cantidad de páginas.
+Los documentos deben imprimirse estrictamente en el mismo orden en que fueron enviados al sistema.
+El prompt debe explicar cómo una estructura de Cola (FIFO) representa de forma idéntica la lógica real de una impresora de oficina.

@@ -1,0 +1,3 @@
+Implementar una clase genérica PilaGenerica<T> en Java utilizando un arreglo de tipo Object.
+Debe permitir almacenar distintos tipos de datos (como Integer, String, etc.) de forma segura mediante casting.
+El prompt debe explicar qué problema resuelve el uso de genéricos (reutilización de código y seguridad de tipos frente a crear pilas dedicadas únicamente a int) y cómo se estructuran los métodos básicos.

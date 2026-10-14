@@ -1,0 +1,6 @@
+Ejercicio 2: Simulador de torre de platos
+Implementar un programa que simule una torre de platos.
+Cada plato puede representarse con un número o nombre.
+El programa debe permitir:
+agregar un plato, retirar el plato superior y consultar cuál es el plato que está arriba.
+El prompt debe explicar por qué este problema se resuelve con una pila y no con una cola.

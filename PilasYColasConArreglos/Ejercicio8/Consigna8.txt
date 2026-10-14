@@ -1,0 +1,5 @@
+Ejercicio 8: Cola de impresión
+Implementar un sistema de cola de impresión.
+Cada documento tiene un nombre y una cantidad de páginas.
+Los documentos se imprimen en el mismo orden en que fueron agregados.
+El prompt debe explicar cómo una cola representa correctamente el orden de impresión.

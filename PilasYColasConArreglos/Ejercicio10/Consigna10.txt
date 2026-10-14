@@ -1,0 +1,4 @@
+Ejercicio 10: Cola circular
+Implementar una cola circular utilizando arreglo.
+Debe reutilizar los espacios liberados al inicio del arreglo.
+El prompt debe explicar cómo se usa el operador módulo % para mover front y rear, y cómo se detecta si la cola está llena o vacía.

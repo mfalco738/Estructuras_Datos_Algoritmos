@@ -1,0 +1,4 @@
+Necesito implementar una clase PilaEnteros en Java utilizando un arreglo de tamaño fijo.
+La estructura debe tener las siguientes operaciones: push(int val), pop(), peek(), isEmpty(), isFull() y size().
+En el prompt debo explicar cómo se usa el índice top, que su valor inicial debe ser -1 (indicando pila vacía), qué sucede cuando la pila está llena (desbordamiento o overflow) y qué ocurre cuando está vacía (subdesbordamiento o underflow).
+El programa debe incluir comentarios y un método main para probar todas sus operaciones.

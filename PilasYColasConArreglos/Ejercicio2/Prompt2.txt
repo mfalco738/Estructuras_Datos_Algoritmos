@@ -1,0 +1,4 @@
+Implementar un programa en Java que simule una torre de platos usando una pila.
+Cada plato se representa mediante un String (nombre).
+El programa debe permitir: agregar un plato (push), retirar el plato superior (pop) y consultar cuál es el plato de arriba (peek).
+El prompt debe explicar explícitamente por qué este problema se resuelve utilizando una estructura LIFO (Pila) y no una cola FIFO, ya que el último plato en colocarse sobre la torre es obligatoriamente el primero en retirarse.

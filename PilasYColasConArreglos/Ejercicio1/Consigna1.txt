@@ -1,0 +1,5 @@
+Ejercicio 1: Implementar una pila de enteros
+Implementar una clase PilaEnteros utilizando un arreglo de tamaño fijo.
+Debe permitir:
+push, pop, peek, isEmpty, isFull y size.
+El alumno debe explicar en el prompt cómo se usa el índice top, qué valor inicial debe tener y qué sucede cuando la pila está llena o vacía.
