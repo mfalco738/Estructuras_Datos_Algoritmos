@@ -1,0 +1,8 @@
+Ejercicio 1: Factorial
+Escribir un prompt para OpenCode que permita implementar en Java una función recursiva para calcular el factorial de un número.
+El prompt debe explicar:
+●	por qué el factorial puede resolverse de forma recursiva;
+●	cuál es el caso base;
+●	qué ocurre cuando n vale 0 o 1;
+●	cómo se reduce el problema;
+●	qué valores de prueba deberían usarse.

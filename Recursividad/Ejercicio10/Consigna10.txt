@@ -1,0 +1,8 @@
+Ejercicio 10: Buscar un elemento en un arreglo
+Escribir un prompt para OpenCode para implementar una función recursiva que busque un número dentro de un arreglo, sin usar ciclos.
+El prompt debe explicar:
+●	desde qué posición empieza la búsqueda;
+●	cómo avanzar en el arreglo sin usar for ni while;
+●	cuál es el caso base cuando encuentra el valor;
+●	cuál es el caso base cuando llega al final;
+●	qué debe devolver la función.

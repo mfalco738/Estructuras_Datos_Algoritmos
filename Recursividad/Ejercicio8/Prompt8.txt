@@ -1,0 +1,4 @@
+Quiero implementar en Java una función recursiva que reciba un String y devuelva la cadena invertida.
+El caso base se da cuando la cadena está vacía o tiene un solo carácter (str.isEmpty() o str.length() <= 1), devolviendo la misma cadena.
+El problema se reduce separando el primer carácter del resto mediante substring(), ubicando ese primer carácter al final y concatenándolo con el resultado de invertir la subcadena restante.
+Quiero comentarios en el código y pruebas con las palabras "hola", "reconocer", "java" y un string vacío "".

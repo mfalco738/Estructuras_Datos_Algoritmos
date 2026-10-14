@@ -1,0 +1,8 @@
+Ejercicio 9: Palíndromo
+Escribir un prompt para OpenCode para implementar una función recursiva que determine si una palabra es palíndromo.
+El prompt debe explicar:
+●	por qué hay que comparar el primer y último carácter;
+●	qué pasa si son distintos;
+●	cómo se reduce el problema eliminando extremos;
+●	cuál es el caso base;
+●	qué pruebas deberían hacerse.

@@ -1,0 +1,8 @@
+Ejercicio 6: Contar dígitos
+Escribir un prompt para OpenCode para implementar una función recursiva que cuente los dígitos de un número entero positivo.
+El prompt debe explicar:
+●	cómo se puede reducir el número usando división entera;
+●	cuál es el caso base;
+●	por qué un número menor que 10 tiene un solo dígito;
+●	qué debe devolver cada llamada;
+●	qué valores de prueba usar.

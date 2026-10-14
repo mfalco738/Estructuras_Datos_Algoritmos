@@ -1,0 +1,5 @@
+Quiero implementar en Java una función recursiva que cuente los dígitos de un número entero positivo.
+El problema se reduce utilizando división entera entre 10 (n / 10), lo cual elimina el último dígito en cada paso.
+El caso base ocurre cuando el número es menor a 10 (es decir, n < 10), ya que un número de un solo dígito tiene una cuenta de 1.
+Cada llamada recursiva debe retornar 1 más el resultado de evaluar el número dividido 10.
+Incluye comentarios detallados y pruebas con los números 7, 45, 382 y 9004.

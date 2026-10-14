@@ -1,0 +1,8 @@
+Ejercicio 7: Sumar dígitos
+Escribir un prompt para OpenCode para implementar una función recursiva que sume los dígitos de un número entero positivo.
+El prompt debe explicar:
+●	cómo obtener el último dígito usando módulo;
+●	cómo reducir el número usando división entera;
+●	cuál es el caso base;
+●	cómo se combinan los resultados;
+●	qué pruebas validar.

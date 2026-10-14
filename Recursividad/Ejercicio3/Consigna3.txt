@@ -1,0 +1,8 @@
+Ejercicio 3: Multiplicación mediante sumas
+Escribir un prompt para OpenCode para implementar en Java una multiplicación recursiva sin usar el operador *.
+El prompt debe explicar:
+●	cómo representar una multiplicación como sumas repetidas;
+●	cuál de los dos parámetros se reduce;
+●	por qué el caso base debería ser cuando uno de los factores vale 0;
+●	qué debe devolver la función;
+●	qué pruebas deberían hacerse.

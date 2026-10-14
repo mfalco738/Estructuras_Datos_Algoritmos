@@ -1,0 +1,7 @@
+Ejercicio 2: Suma de los primeros N números
+Escribir un prompt para OpenCode para implementar una función recursiva que sume los números desde n hasta 1.
+El prompt debe explicar:
+●	cuál es el caso más simple;
+●	por qué suma(n) puede pensarse como n + suma(n - 1);
+●	qué debe pasar si n es 0;
+●	cómo validar que la función funciona correctamente.

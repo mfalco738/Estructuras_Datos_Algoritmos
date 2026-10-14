@@ -1,0 +1,6 @@
+Quiero implementar en Java una función recursiva que calcule una potencia (base^{exponente}) sin usar Math.pow.
+Una potencia puede verse como multiplicaciones sucesivas de la base por sí misma.
+El caso base es cuando el exponente es 0, devolviendo siempre 1.
+El exponente se reduce de a 1 unidad en cada llamada recursiva (exponente - 1).
+La función debe devolver el valor entero de la potencia calculada.
+Incluye comentarios detallados y casos de prueba para (2, 3), (5, 0), (3, 4) y (0, 5).

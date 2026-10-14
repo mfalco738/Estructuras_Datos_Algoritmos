@@ -1,0 +1,6 @@
+Quiero implementar en Java una función recursiva para calcular el factorial de un número entero.
+Este problema puede resolverse recursivamente porque el factorial de un número n se define en función del factorial de un número menor (n x (n - 1)!)
+El caso base es cuando n = 0 o n = 1, porque el factorial de ambos es 1 por definición matemática, deteniendo la recursión.
+El caso recursivo es n * factorial(n - 1), porque en cada llamada el valor de n se reduce en 1 acercándose al caso base.
+La función debe devolver el valor entero correspondiente al resultado del factorial.
+Quiero que el código tenga comentarios explicando el caso base, el caso recursivo y la pila de llamadas, y que incluya un método main con pruebas para n = 0, n = 1, n = 5 y n = 6.

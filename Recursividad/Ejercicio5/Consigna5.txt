@@ -1,0 +1,8 @@
+Ejercicio 5: Conteo regresivo
+Escribir un prompt para OpenCode para implementar una función recursiva que imprima un conteo desde n hasta 0.
+El prompt debe explicar:
+●	qué significa que la función no necesariamente devuelva un valor;
+●	cuál es el caso base;
+●	cómo se acerca al caso base;
+●	qué pasaría si en lugar de n - 1 se usara n + 1;
+●	cómo probar la ejecución.

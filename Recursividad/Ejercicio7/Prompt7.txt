@@ -1,0 +1,5 @@
+Quiero implementar en Java una función recursiva que sume todos los dígitos de un número entero positivo.
+El último dígito de un número se obtiene mediante la operación módulo 10(n % 10), y el número se reduce utilizando división entera por 10 (n / 10).
+El caso base es cuando el número es menor a 10, devolviendo directamente el número.
+Se deben combinar los resultados sumando el dígito extraído con el resultado de la llamada recursiva.
+Incluye comentarios explicativos y casos de prueba para 5, 48, 321 y 9052.

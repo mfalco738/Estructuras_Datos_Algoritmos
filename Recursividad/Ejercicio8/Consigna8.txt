@@ -1,0 +1,8 @@
+Ejercicio 8: Invertir una palabra
+Escribir un prompt para OpenCode para implementar una función recursiva que invierta un String.
+El prompt debe explicar:
+●	cuál es el caso base para una cadena vacía o de un solo carácter;
+●	cómo separar el primer carácter del resto;
+●	cómo se reduce la cadena en cada llamada;
+●	cómo se reconstruye el resultado al volver de la recursión;
+●	qué palabras usar como prueba.

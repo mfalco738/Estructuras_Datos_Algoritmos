@@ -1,0 +1,8 @@
+Ejercicio 4: Potencia
+Escribir un prompt para OpenCode para implementar una función recursiva que calcule una potencia sin usar Math.pow.
+El prompt debe explicar:
+●	por qué una potencia puede verse como multiplicaciones sucesivas;
+●	por qué el caso base es exponente 0;
+●	cómo se reduce el exponente;
+●	qué debe devolver la función en cada caso;
+●	qué casos de prueba usar.

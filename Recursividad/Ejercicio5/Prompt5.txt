@@ -1,0 +1,4 @@
+Quiero implementar en Java una función recursiva que imprima por consola un conteo regresivo desde un número n hasta 0, sin retornar valores (void).
+El caso base es cuando n < 0, momento en el cual la función finaliza sin hacer más impresiones.
+Para acercarnos al caso base, en cada llamada recursiva restamos 1 a n(n - 1). Si usáramos n + 1, nos alejaríamos del caso base provocando un desbordamiento de pila (StackOverflowError).
+Quiero comentarios explicativos y un caso de prueba con n = 5.

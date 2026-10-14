@@ -1,0 +1,9 @@
+Quiero implementar en Java una función recursiva que busque un número dentro de un arreglo de enteros sin utilizar estructuras repetitivas (for o while).
+La búsqueda debe controlarse mediante un parámetro adicional de índice que indique la posición actual desde donde se empieza a buscar.
+El avance en el arreglo se logra incrementando dicho índice en cada llamada recursiva.
+Existen dos casos base:
+
+Si el índice actual supera los límites del arreglo, significa que el elemento no está (retorna false).
+
+Si el elemento en la posición actual coincide con el valor buscado, se encontró con éxito (retorna true).
+Quiero comentarios explicativos y casos de prueba buscando elementos existentes y ausentes en un arreglo.

@@ -1,0 +1,6 @@
+Quiero implementar en Java una función recursiva que sume los números desde $n$ hasta 1.
+El caso más simple (caso base) es cuando n = 0, ya que la suma acumulada es 0.
+Este problema puede resolverse recursivamente porque suma(n) puede pensarse como n + suma(n - 1).
+En cada llamada se reduce el valor de n restándole 1 hasta llegar al caso base.
+La función debe devolver la suma total acumulada.
+Quiero que el código incluya comentarios sobre el caso base y el caso recursivo, junto con un método main para probarlo con n = 0, n = 1, n = 5 y n = 10.

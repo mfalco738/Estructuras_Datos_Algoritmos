@@ -1,0 +1,5 @@
+Quiero implementar en Java una función recursiva que determine si una palabra es un palíndromo (se lee igual al derecho y al revés) devolviendo un valor booleano.
+Para resolverlo, hay que comparar el primer y el último carácter de la cadena. Si son distintos, se retorna inmediatamente false.
+El problema se reduce eliminando ambos extremos mediante substring(1, str.length() - 1) en cada llamada.
+El caso base ocurre cuando la cadena tiene longitud 0 o 1, lo que significa que se verificaron todos los caracteres con éxito y se retorna true.
+Incluye comentarios detallados y casos de prueba con "neuquen", "reconocer", "programacion" y "a".

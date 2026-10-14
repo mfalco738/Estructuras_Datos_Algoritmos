@@ -1,0 +1,6 @@
+Quiero implementar en Java una función recursiva para calcular la multiplicación de dos números enteros positivos sin usar el operador *.
+Esta operación se representa como sumas repetidas (por ejemplo, a * b, es sumar a un total de b veces).
+El caso base debe ser cuando uno de los factores (por ejemplo, b) vale 0, devolviendo 0.
+El parámetro que se reduce en cada llamada recursiva es b, restándole 1.
+La función debe devolver el resultado entero de la suma acumulada.
+Quiero comentarios explicando el funcionamiento y casos de prueba para (5, 3), (4, 0), (0, 6) y (7, 1).
