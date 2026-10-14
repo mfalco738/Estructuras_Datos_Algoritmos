@@ -11,12 +11,15 @@ Repositorio de trabajos prácticos de la materia Estructura de Datos y Algoritmo
 - **5-ListasEnlazadasSimples**: Creación e implementación de listas enlazadas dinámicas desde cero, gestionando de forma manual nodos, referencias de memoria (*head*), recorridos secuenciales, inserciones y eliminaciones por valor o posición, manipulación de enlaces, inversión de estructuras y adaptación a tipos genéricos en Java.
 - **6-PilasYColasConListasEnlazadas**: Reimplementación dinámica de pilas y colas mediante listas enlazadas simples y doblemente enlazadas, garantizando operaciones en tiempo constante $O(1)$ mediante el uso de punteros de control optimizados (`head` y `tail`), aplicadas a sistemas de atención de clientes, colas de impresión y estructuras genéricas reutilizables.
 
-## Tecnologías
+## 🛠️ Tecnologías y Herramientas
+- **Java**: Lenguaje de programación principal empleado para la implementación de las estructuras de datos y algoritmos.
+- **Git**: Sistema de control de versiones utilizado para el seguimiento y gestión iterativa del historial del proyecto.
+- **GitHub**: Plataforma de alojamiento remoto para el control de versiones y la colaboración.
+- **Gemini**: Asistente empleado para la interpretación y análisis conceptual de las consignas, así como para la estructuración y generación de prompts.
+- **ChatGPT**: Asistente utilizado para la implementación de los prompts y la traducción de los diseños lógicos a código Java.
 
-- Java
-- Git
-- GitHub
-
-## Organización
-
-Cada trabajo práctico se encuentra en su propia carpeta e incluye los ejercicios y archivos correspondientes.
+## 📂 Organización del Repositorio
+El repositorio se encuentra estructurado en directorios principales dedicados a cada trabajo práctico. Internamente, cada carpeta de trabajo práctico se divide de forma modular y organizada de la siguiente manera:
+- **Archivos de Código Fuente (`.java`)**: Implementación limpia y documentada de las soluciones algorítmicas requeridas en cada ejercicio.
+- **Documentación de Consignas (`.docx` / `.txt`)**: Detalle de los requerimientos y enunciados originales provistos para la resolución de los problemas.
+- **Registro de Prompts (`.txt`)**: Historial de los prompts iniciales y estructurados utilizados para guiar el desarrollo mediante asistencia de IA, reflejando el razonamiento lógico y los casos de prueba evaluados.
