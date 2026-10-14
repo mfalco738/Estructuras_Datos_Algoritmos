@@ -1,0 +1,3 @@
+Quiero implementar en Java una lista enlazada simple de números enteros desde cero, sin utilizar estructuras predefinidas de Java como ArrayList o LinkedList.
+La lista debe permitir las siguientes operaciones: insertarAlInicio(int dato), insertarAlFinal(int dato), imprimir(), estaVacia() y getSize().
+El prompt debe explicar detalladamente cómo se representa un nodo (con un valor entero y una referencia al siguiente nodo), qué función vital cumple el puntero head (apuntar al primer elemento o ser nulo si está vacía) y cómo se actualiza el atributo size de la lista en cada inserción.

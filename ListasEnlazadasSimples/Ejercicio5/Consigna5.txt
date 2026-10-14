@@ -1,0 +1,11 @@
+Ejercicio 5: Eliminar un nodo por valor
+Implementar el método:
+boolean eliminar(int dato)
+Debe eliminar la primera aparición del dato en la lista.
+Debe contemplar:
+●	lista vacía
+●	eliminar el primer nodo
+●	eliminar un nodo del medio
+●	eliminar el último nodo
+●	dato inexistente
+El prompt debe explicar que en Java no se borra manualmente el nodo, sino que se deja inaccesible para que luego pueda actuar el Garbage Collector.

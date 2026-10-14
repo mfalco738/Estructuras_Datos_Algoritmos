@@ -1,0 +1,9 @@
+Ejercicio 10: Convertir la lista de enteros en una lista genérica
+Tomar la implementación de lista enlazada simple con int y transformarla en una versión genérica:
+ListaEnlazada<T>
+Nodo<T>
+Debe funcionar con distintos tipos de datos, por ejemplo:
+ListaEnlazada<Integer>
+ListaEnlazada<String>
+ListaEnlazada<Alumno>
+El prompt debe explicar qué partes del código cambian, cuáles se mantienen iguales y por qué el algoritmo de recorrido, inserción y eliminación no depende del tipo de dato almacenado.

@@ -1,0 +1,2 @@
+Implementar el método void eliminarEnPosicion(int posicion), asegurando una validación estricta de límites inválidos y la correcta actualización del atributo size.
+El prompt debe explicar la lógica necesaria para posicionarse en el nodo anterior al que se desea eliminar, y cómo reasignar su puntero siguiente para saltar y desvincular por completo al nodo objetivo.

@@ -1,0 +1,8 @@
+Ejercicio 3: Obtener un elemento por posición
+Implementar el método:
+int obtener(int posicion)
+El método debe devolver el dato almacenado en una posición determinada.
+Debe validar posiciones inválidas:
+posicion < 0
+posicion >= size
+El prompt debe explicar que, aunque se use una posición, la lista enlazada no tiene acceso directo como un arreglo, por lo tanto debe recorrerse nodo por nodo.

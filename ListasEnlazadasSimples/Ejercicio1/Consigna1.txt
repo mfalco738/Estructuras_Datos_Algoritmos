@@ -1,0 +1,9 @@
+Ejercicio 1: Crear una lista enlazada simple desde cero
+Implementar una lista enlazada simple de números enteros, sin utilizar estructuras de Java como ArrayList, LinkedList o similares.
+La lista debe permitir:
+insertarAlInicio(int dato)
+insertarAlFinal(int dato)
+imprimir()
+estaVacia()
+getSize()
+El prompt debe explicar cómo se representa un nodo, qué función cumple head y cómo se actualiza el tamaño de la lista.

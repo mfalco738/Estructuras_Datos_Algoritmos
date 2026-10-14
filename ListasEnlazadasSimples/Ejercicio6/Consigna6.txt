@@ -1,0 +1,5 @@
+Ejercicio 6: Eliminar un nodo por posición
+Implementar el método:
+void eliminarEnPosicion(int posicion)
+Debe validar posiciones inválidas y actualizar correctamente el atributo size.
+El prompt debe explicar cómo encontrar el nodo anterior al que se quiere eliminar y cómo hacer que apunte al nodo siguiente del eliminado.

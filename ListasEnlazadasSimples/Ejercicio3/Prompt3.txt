@@ -1,0 +1,3 @@
+Implementar el método int obtener(int posicion) que devuelva el valor entero almacenado en una posición específica de la lista enlazada simple.
+El método debe validar obligatoriamente posiciones inválidas arrojando una excepción si posicion < 0 o posicion >= size.
+El prompt debe explicar que, a pesar de recibir una posición numérica, la lista enlazada carece de acceso aleatorio directo, por lo que es imperativo avanzar con un bucle nodo por nodo desde el inicio hasta alcanzar el índice deseado.

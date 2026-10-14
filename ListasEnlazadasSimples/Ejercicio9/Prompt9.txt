@@ -1,0 +1,9 @@
+Implementar el método void invertir() para modificar la dirección de los punteros de toda la lista enlazada simple (por ejemplo, transformar 10 -> 20 -> 30 -> null en 30 -> 20 -> 10 -> null).
+El prompt debe explicar qué variables o referencias auxiliares son indispensables para realizar la inversión sin perder nodos en el proceso:
+
+anterior
+
+actual
+
+siguiente
+También debe justificar por qué el orden de reasignación de estos punteros es el núcleo algorítmico del problema.

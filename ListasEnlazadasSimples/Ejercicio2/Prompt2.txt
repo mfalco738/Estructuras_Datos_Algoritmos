@@ -1,0 +1,3 @@
+A partir de una lista enlazada simple de enteros, quiero implementar un método boolean buscar(int dato) que determine si un valor específico se encuentra dentro de la estructura.
+El método debe recorrer la lista paso a paso desde head hasta encontrar el dato buscado o llegar a un nodo null.
+El prompt debe explicar teóricamente por qué en una lista enlazada no se puede acceder directamente por índice (como ocurre en los arreglos mediante memoria contigua) y por qué la búsqueda requiere estrictamente un recorrido secuencial nodo por nodo.

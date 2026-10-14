@@ -1,0 +1,12 @@
+Ejercicio 4: Insertar un nodo en una posición específica
+Implementar el método:
+void insertarEnPosicion(int dato, int posicion)
+Debe permitir insertar:
+●	al inicio
+●	en el medio
+●	al final
+Debe validar posiciones inválidas.
+El prompt debe explicar con claridad el orden correcto de actualización de referencias:
+nuevo.setSiguiente(actual.getSiguiente());
+actual.setSiguiente(nuevo);
+También debe explicar qué podría pasar si se actualizan las referencias en el orden incorrecto.

@@ -1,0 +1,13 @@
+Ejercicio 9: Invertir una lista enlazada simple
+Implementar el método:
+void invertir()
+Ejemplo:
+10 -> 20 -> 30 -> 40 -> null
+Después de invertir:
+40 -> 30 -> 20 -> 10 -> null
+El prompt debe explicar qué referencias auxiliares hacen falta para invertir la lista sin perder nodos.
+Por ejemplo:
+anterior
+actual
+siguiente
+También debe explicar por qué el orden de actualización de referencias es fundamental.

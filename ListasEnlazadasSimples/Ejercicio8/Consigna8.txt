@@ -1,0 +1,9 @@
+Ejercicio 8: Contar ocurrencias de un valor
+Implementar el método:
+int contarOcurrencias(int dato)
+El método debe recorrer toda la lista y contar cuántas veces aparece un valor.
+Ejemplo:
+10 -> 20 -> 10 -> 30 -> 10 -> null
+Para el valor 10, debe devolver:
+3
+El prompt debe explicar por qué no se debe cortar el recorrido al encontrar la primera coincidencia.

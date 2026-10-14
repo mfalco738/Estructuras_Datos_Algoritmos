@@ -1,0 +1,3 @@
+Tomar la implementación desarrollada de la lista enlazada simple basada en tipos primitivos int y transformarla en una versión completamente genérica: ListaEnlazada<T> y Nodo<T>.
+La estructura debe poder operar de forma transparente con distintos tipos de datos u objetos (por ejemplo, ListaEnlazada<Integer>, ListaEnlazada<String> o ListaEnlazada<Alumno>).
+El prompt debe explicar qué secciones del código cambian (definición de tipos), cuáles se mantienen intactas y por qué los algoritmos lógicos de recorrido, inserción y eliminación no dependen en absoluto de la naturaleza del dato almacenado.

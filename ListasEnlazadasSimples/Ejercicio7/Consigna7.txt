@@ -1,0 +1,6 @@
+Ejercicio 7: Modificar un elemento de la lista
+Implementar el método:
+void modificar(int posicion, int nuevoDato)
+Debe cambiar el dato almacenado en una posición determinada.
+Debe validar la posición antes de recorrer.
+El prompt debe explicar la diferencia entre modificar el dato de un nodo y modificar la referencia al siguiente nodo.

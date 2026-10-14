@@ -1,0 +1,7 @@
+Implementar el método void insertarEnPosicion(int dato, int posicion) que permita insertar un nuevo nodo tanto al inicio, en el medio como al final de la lista, validando previamente los rangos incorrectos.
+El prompt debe detallar con absoluta claridad el orden correcto en que deben actualizarse las referencias de memoria para evitar la pérdida de nodos:
+
+nuevo.setSiguiente(actual.getSiguiente());
+
+actual.setSiguiente(nuevo);
+También debe explicar de forma crítica qué sucedería si se invirtiera este orden de asignación.

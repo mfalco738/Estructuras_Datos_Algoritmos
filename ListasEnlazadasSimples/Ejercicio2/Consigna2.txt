@@ -1,0 +1,5 @@
+Ejercicio 2: Buscar elementos en una lista enlazada
+A partir de una lista enlazada simple de enteros, implementar un método:
+boolean buscar(int dato)
+El método debe recorrer la lista desde head hasta encontrar el dato o llegar a null.
+El prompt debe explicar por qué no se puede acceder directamente por índice y por qué la búsqueda requiere recorrido secuencial.

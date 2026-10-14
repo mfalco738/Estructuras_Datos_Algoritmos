@@ -1,0 +1,3 @@
+Implementar el método void modificar(int posicion, int nuevoDato) para cambiar el valor numérico almacenado en una posición determinada de la lista.
+Se debe validar la posición antes de iniciar cualquier recorrido.
+El prompt debe explicar conceptualmente la diferencia crítica entre modificar el dato interno de un nodo existente versus modificar las referencias de enlace (siguiente) entre los nodos de la estructura.

@@ -1,0 +1,3 @@
+Implementar el método boolean eliminar(int dato) para remover de la lista la primera aparición del valor especificado.
+Debe contemplar de manera robusta los casos borde: lista vacía, eliminar el primer nodo (head), eliminar un nodo intermedio, eliminar el último nodo y un escenario donde el dato no exista en la estructura.
+El prompt debe explicar que en Java no se libera memoria de forma manual, sino que al romper la referencia hacia el nodo objetivo, este queda inaccesible permitiendo que actúe automáticamente el Garbage Collector.

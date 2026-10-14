@@ -1,0 +1,2 @@
+Implementar el método int contarOcurrencias(int dato) que recorra íntegramente la lista enlazada simple y retorne la cantidad exacta de veces que aparece un determinado valor numérico (por ejemplo, si el 10 aparece tres veces, devolver 3).
+El prompt debe explicar con fundamentos por qué en este caso no se debe interrumpir ni cortar el recorrido al encontrar la primera coincidencia, ya que es obligatorio evaluar todos los nodos restantes de la lista.
