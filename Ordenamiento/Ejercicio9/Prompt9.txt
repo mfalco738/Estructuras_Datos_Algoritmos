@@ -1,0 +1,4 @@
+Implementar en Java tres métodos independientes para ordenar copias de un mismo arreglo usando Bubble Sort, Selection Sort y Insertion Sort.
+El objetivo es comparar las estrategias de ordenamiento de manera práctica.
+El programa debe ejecutar los tres algoritmos sobre el mismo conjunto de datos inicial y mostrar por pantalla: el arreglo ordenado resultante, la cantidad exacta de comparaciones y la cantidad exacta de intercambios o desplazamientos que realizó cada uno.
+Incluye comentarios analíticos.

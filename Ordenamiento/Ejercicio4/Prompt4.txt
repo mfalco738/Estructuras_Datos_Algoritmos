@@ -1,0 +1,5 @@
+
+Quiero implementar un programa en Java que ordene un arreglo de cadenas de texto (String[]) alfabéticamente utilizando el algoritmo Selection Sort.
+El objetivo es razonar cómo cambia la comparación al trabajar con textos y no con números, utilizando el método .compareTo() en lugar de operadores relacionales directos (>).
+El programa debe recibir un arreglo como {"Lucia", "Ana", "Pedro", "Juan"}, mostrar el estado inicial y el resultado final ordenado alfabéticamente.
+El código debe incluir comentarios explicando el funcionamiento de las comparaciones lexicográficas.

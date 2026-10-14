@@ -1,0 +1,7 @@
+2. Comparación entre Burbuja y Selección
+Implementar dos métodos en Java:
+bubbleSort(int[] array)
+selectionSort(int[] array)
+Ambos deben ordenar el mismo arreglo.
+El programa debe contar cuántas comparaciones e intercambios realiza cada algoritmo.
+El objetivo es que el alumno razone la diferencia entre comparar vecinos y buscar directamente el menor.

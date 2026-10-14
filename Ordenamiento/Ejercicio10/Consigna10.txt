@@ -1,0 +1,8 @@
+10. Sistema de ranking de puntajes
+Implementar un programa en Java que reciba un arreglo de jugadores con nombre y puntaje.
+El programa debe ordenar el ranking de mayor a menor puntaje utilizando el algoritmo que el alumno considere más adecuado entre los vistos.
+Ejemplo:
+Jugador("Ana", 1200)
+Jugador("Pedro", 900)
+Jugador("Lucia", 1500)
+El objetivo es que el prompt justifique la elección del algoritmo y explique por qué esa estrategia es conveniente para el problema.

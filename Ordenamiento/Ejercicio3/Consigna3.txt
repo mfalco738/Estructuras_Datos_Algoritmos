@@ -1,0 +1,6 @@
+3. Ordenamiento por Inserción con arreglo casi ordenado
+Implementar Insertion Sort sobre un arreglo que ya esté casi ordenado.
+Ejemplo:
+int[] numeros = {1, 2, 3, 5, 4, 6, 7};
+El programa debe mostrar cuántos desplazamientos realiza.
+El objetivo es que el prompt explique por qué Insertion Sort funciona bien cuando los datos están casi ordenados.

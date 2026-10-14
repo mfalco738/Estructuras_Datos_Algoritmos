@@ -1,0 +1,4 @@
+Quiero implementar dos métodos en Java: bubbleSort(int[] array) y selectionSort(int[] array) para ordenar copias del mismo arreglo.
+El objetivo es que el alumno razone la diferencia entre comparar vecinos de forma repetida (Bubble Sort) y buscar directamente la posición del elemento menor para colocarlo al principio (Selection Sort).
+El programa debe contar y mostrar por pantalla cuántas comparaciones y cuántos intercambios realiza cada algoritmo de manera independiente.
+El código debe estar comentado y mostrar los resultados finales para verificar la correcta ordenación de ambos métodos.

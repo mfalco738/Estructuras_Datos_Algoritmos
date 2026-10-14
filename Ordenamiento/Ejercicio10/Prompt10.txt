@@ -1,0 +1,4 @@
+Implementar un programa en Java que gestione un sistema de ranking de puntajes mediante una clase Jugador (que contenga atributos de tipo String nombre y int puntaje).
+El prompt debe justificar la elección de un algoritmo adecuado (por ejemplo, Insertion Sort o Selection Sort adaptado para objetos) y explicar por qué resulta conveniente para ordenar un conjunto pequeño de jugadores de mayor a menor puntaje.
+El programa debe inicializar los datos con los ejemplos dados (Ana: 1200, Pedro: 900, Lucia: 1500), procesar el ordenamiento e imprimir el ranking final por consola.
+Incluye comentarios detallados.

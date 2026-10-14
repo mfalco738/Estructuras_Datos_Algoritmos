@@ -1,0 +1,8 @@
+6. Quicksort con primer elemento como pivote
+Implementar Quicksort usando siempre el primer elemento como pivote.
+El programa debe mostrar:
+●	pivote elegido;
+●	subarreglo izquierdo;
+●	subarreglo derecho;
+●	arreglo final ordenado.
+El objetivo es que el prompt relacione el algoritmo con recursividad y divide y vencerás.

@@ -1,0 +1,10 @@
+9. Comparación de algoritmos simples
+Implementar en Java los algoritmos:
+●	Bubble Sort
+●	Selection Sort
+●	Insertion Sort
+El programa debe ordenar el mismo arreglo con los tres métodos y mostrar:
+●	arreglo ordenado;
+●	cantidad de comparaciones;
+●	cantidad de intercambios o desplazamientos.
+El objetivo es que el alumno compare las estrategias y no solo el resultado final.

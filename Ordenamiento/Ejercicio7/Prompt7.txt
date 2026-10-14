@@ -1,0 +1,5 @@
+
+Implementar Quicksort (con pivote en el primer elemento) sobre un arreglo que ya se encuentra completamente ordenado (ejemplo: {1, 2, 3, 4, 5, 6, 7}).
+El prompt debe explicar y justificar teóricamente por qué elegir siempre el primer elemento como pivote en un arreglo ya ordenado genera un desbalance extremo (particiones vacías de un lado) provocando un rendimiento pésimo de $O(n^2)$.
+El programa debe contar y mostrar la cantidad exacta de llamadas recursivas realizadas durante la ejecución.
+Incluye comentarios y verifica el comportamiento del peor caso.

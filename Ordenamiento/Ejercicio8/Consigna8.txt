@@ -1,0 +1,7 @@
+8. MergeSort paso a paso
+Implementar MergeSort en Java.
+El programa debe mostrar:
+●	cómo se divide el arreglo;
+●	cuándo llega a la condición de corte;
+●	cómo se van fusionando los subarreglos.
+El objetivo es que el prompt explique claramente la diferencia entre dividir y fusionar.

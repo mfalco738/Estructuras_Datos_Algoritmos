@@ -1,0 +1,5 @@
+Quiero implementar en Java un programa que ordene un arreglo de números enteros utilizando el algoritmo Bubble Sort.
+El algoritmo debe explicar su razonamiento comparando elementos adyacentes y haciendo que el elemento mayor se vaya desplazando "como una burbuja" hacia el final del arreglo en cada pasada.
+El programa debe recibir un arreglo de números desordenados, mostrar el arreglo original y luego imprimir explícitamente el estado del arreglo después de cada pasada del ciclo externo.
+El código debe incluir comentarios detallados explicando el intercambio (swap) y la reducción del rango de comparación.
+Finalmente, debe verificar que el resultado sea correcto mostrando el arreglo completamente ordenado.

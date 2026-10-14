@@ -1,0 +1,4 @@
+Quiero implementar Insertion Sort en Java aplicado sobre un arreglo que ya se encuentra casi ordenado (por ejemplo, {1, 2, 3, 5, 4, 6, 7}).
+El prompt debe explicar por qué Insertion Sort funciona muy bien y realiza pocas operaciones en este escenario (el ciclo interno apenas se desplaza cuando encuentra elementos ya ordenados).
+El programa debe contar y mostrar exactamente cuántos desplazamientos realiza durante la ejecución.
+Incluye comentarios detallados y verifica que el arreglo quede perfectamente ordenado al finalizar.

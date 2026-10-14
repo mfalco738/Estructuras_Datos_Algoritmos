@@ -1,0 +1,4 @@
+Implementar el algoritmo MergeSort en Java siguiendo la estrategia de división y fusión recursiva.
+El prompt debe explicar claramente la diferencia clave entre la fase de división (partir recursivamente los arreglos a la mitad hasta llegar a elementos individuales o condición de corte) y la fase de fusión (combinar los subarreglos ordenados de forma ascendente).
+El programa debe mostrar por consola cómo se va dividiendo el arreglo, cuándo llega a la condición de corte y cómo se van fusionando los subarreglos paso a paso.
+Incluye comentarios detallados.

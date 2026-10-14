@@ -1,0 +1,6 @@
+7. Peor caso de Quicksort
+Implementar Quicksort sobre un arreglo ya ordenado.
+Ejemplo:
+int[] numeros = {1, 2, 3, 4, 5, 6, 7};
+El programa debe contar la cantidad de llamadas recursivas realizadas.
+El objetivo es que el alumno explique en el prompt por qué elegir siempre el primer elemento como pivote puede generar un mal rendimiento.

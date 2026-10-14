@@ -1,0 +1,5 @@
+4. Ordenamiento de nombres con Selection Sort
+Implementar un programa que ordene un arreglo de nombres alfabéticamente utilizando Selection Sort.
+Ejemplo:
+String[] nombres = {"Lucia", "Ana", "Pedro", "Juan"};
+El objetivo es que el alumno razone cómo cambia la comparación cuando se ordenan textos y no números.

@@ -1,0 +1,4 @@
+Implementar el algoritmo ShellSort en Java para ordenar un arreglo de enteros.
+El prompt debe explicar por qué ShellSort mejora a Insertion Sort permitiendo el intercambio de elementos distantes utilizando saltos o intervalos (gap).
+El programa debe mostrar claramente el valor actual del gap en cada etapa y el estado exacto del arreglo luego de cada pasada.
+Incluye comentarios detallados y comprueba el funcionamiento correcto con un arreglo de prueba.

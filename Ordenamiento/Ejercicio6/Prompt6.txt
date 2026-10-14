@@ -1,0 +1,4 @@
+Implementar el algoritmo Quicksort en Java utilizando siempre el primer elemento del subarreglo como pivote.
+El prompt debe relacionar el algoritmo con los paradigmas de recursividad y la estrategia de "divide y vencerás".
+El programa debe imprimir de forma detallada en cada llamada recursiva: el pivote elegido, el subarreglo izquierdo resultante, el subarreglo derecho resultante y el arreglo final ordenado.
+Incluye comentarios explicativos en el código de partición.

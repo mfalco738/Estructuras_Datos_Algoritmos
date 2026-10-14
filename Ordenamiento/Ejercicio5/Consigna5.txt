@@ -1,0 +1,4 @@
+5. ShellSort explicando los gaps
+Implementar ShellSort en Java.
+El programa debe mostrar el valor del gap en cada etapa y el estado del arreglo luego de cada pasada.
+El objetivo es que el prompt explique por qué ShellSort mejora a Insertion Sort utilizando saltos.

@@ -1,0 +1,4 @@
+1. Ordenamiento Burbuja paso a paso
+Implementar en Java un programa que ordene un arreglo de números enteros usando Bubble Sort.
+El programa debe mostrar el arreglo original y luego el estado del arreglo después de cada pasada.
+El objetivo es que el prompt explique por qué el elemento mayor se va desplazando hacia el final
